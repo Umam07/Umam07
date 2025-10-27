@@ -1,8 +1,6 @@
 <!-- Banner -->
 ![Header](./github-header-banner.png)
 
-# 👋 Halo, saya Muhammad Syafi'ul Umam
-
 🎓 Mahasiswa **Teknik Informatika** di **Universitas YARSI**  
 📚 Saat ini sedang menempuh **semester 7**, dan memiliki minat besar di bidang **pengembangan perangkat lunak**, **teknologi web**, dan **desain antarmuka**.
 
