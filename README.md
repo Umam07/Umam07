@@ -38,8 +38,8 @@
 
 ---
 
-## 📊 Statistik GitHub
-![Statistik GitHub Umam](https://github-readme-stats.vercel.app/api?username=Umam07&show_icons=true&theme=radical)  
+## 📊 Statistik GitHub (Total)
+![Statistik GitHub Umam](https://github-readme-stats.vercel.app/api?username=Umam07&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 ![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=Umam07&layout=compact&theme=radical)
 
 ---
@@ -53,11 +53,10 @@
 
 ## 📫 Hubungi Saya
 
+[![Email](https://img.shields.io/badge/Email-muhammadumamsyafiul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadumamsyafiul@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umammskyy/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-syafi-ul-umam-689b0b1ba/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portofolioumam.netlify.app/)
-
-📧 **muhammadsyafiulumam@example.com** *(ganti dengan email aktifmu)*  
 
 ---
 
