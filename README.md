@@ -1,6 +1,8 @@
 <!-- Banner -->
 ![Header](./github-header-banner.png)
 
+# 👋 Halo, saya Muhammad Syafi'ul Umam
+
 🎓 Mahasiswa **Teknik Informatika** di **Universitas YARSI**  
 📚 Saat ini sedang menempuh **semester 7**, dan memiliki minat besar di bidang **pengembangan perangkat lunak**, **teknologi web**, dan **desain antarmuka**.
 
@@ -52,10 +54,20 @@
 ---
 
 ## 📫 Hubungi Saya
-🌐 [LinkedIn](https://www.linkedin.com/in/) *(tambahkan nanti)*  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umammskyy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-syafi-ul-umam-689b0b1ba/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portofolioumam.netlify.app/)
+
 📧 **muhammadsyafiulumam@example.com** *(ganti dengan email aktifmu)*  
-💻 [Website Portofolio](https://) *(jika sudah ada)*  
 
 ---
 
 > *"Koding itu seperti seni — butuh logika, rasa, dan ketekunan untuk membuat sesuatu yang indah."*
+
+---
+
+<!-- GIF favorit -->
+<p align="center">
+  <img src="./jiwoo-jiwoo-h2h.gif" alt="Jiwoo H2H Hearts" width="300" />
+</p>
