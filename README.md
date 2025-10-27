@@ -1,4 +1,5 @@
-# 👋 Halo, saya Muhammad Syafi'ul Umam
+<!-- Banner -->
+![Header](./github-header-banner.png)
 
 🎓 Mahasiswa **Teknik Informatika** di **Universitas YARSI**  
 📚 Saat ini sedang menempuh **semester 7**, dan memiliki minat besar di bidang **pengembangan perangkat lunak**, **teknologi web**, dan **desain antarmuka**.
@@ -9,7 +10,7 @@
 - 🔭 Sedang fokus mempelajari **React.js**, **Node.js**, dan berbagai framework modern
 - 💬 Tertarik dengan **pengembangan front-end**, **UI/UX**, serta **arsitektur sistem**
 - 🌱 Terus mengasah kemampuan dalam **Java**, **JavaScript**, dan **pengembangan backend**
-- 🎯 Tujuan saya adalah menjadi seorang **Full-Stack Developer** yang mampu menciptakan solusi digital yang bermanfaat dan efisien
+- 🎯 Tujuan saya adalah menjadi seorang **Front-End / Full-Stack Developer** yang mampu menciptakan solusi digital yang bermanfaat dan efisien
 
 ---
 
