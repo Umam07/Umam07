@@ -39,7 +39,6 @@
 ---
 
 ## 📊 Statistik GitHub (Total)
-![Statistik GitHub Umam](https://github-readme-stats.vercel.app/api?username=Umam07&show_icons=true&count_private=true&theme=radical&hide_rank=false)  
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umam07&layout=compact&theme=radical)
 
 
