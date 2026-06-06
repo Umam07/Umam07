@@ -1,70 +1,52 @@
-<!-- Banner -->
-![Header](./github-header-banner.png)
-
-🎓 Mahasiswa **Teknik Informatika** di **Universitas YARSI**  
-📚 Saat ini sedang menempuh **semester 7**, dan memiliki minat besar di bidang **pengembangan perangkat lunak**, **teknologi web**, dan **desain antarmuka**.
-
----
-
-## 🧠 Tentang Saya
-- 🔭 Sedang fokus mempelajari **React.js**, **Node.js**, dan berbagai framework modern  
-- 💬 Tertarik dengan **pengembangan front-end**, **UI/UX**, serta **arsitektur sistem**  
-- 🌱 Terus mengasah kemampuan dalam **Java**, **JavaScript**, dan **pengembangan backend**  
-- 🎯 Tujuan saya adalah menjadi seorang **Front-End / Full-Stack Developer** yang mampu menciptakan solusi digital yang bermanfaat dan efisien  
-
----
-
-## 🛠️ Teknologi yang Dikuasai
-
-### 💻 Bahasa Pemrograman
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### ⚙️ Framework
-![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🎨 Tools & Library
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🗄️ Basis Data
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 Statistik GitHub (Total)
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umam07&layout=compact&theme=radical)
-
-
----
-
-## ✨ Fakta Menarik
-- ☕ Kopi adalah bahan bakar utama saya saat ngoding  
-- 🧩 Suka menyelesaikan tantangan coding dan membuat program lebih efisien  
-- 🎵 Musik jadi teman terbaik saat menulis kode  
-
----
-
-## 📫 Hubungi Saya
-
-[![Email](https://img.shields.io/badge/Email-muhammadumamsyafiul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadumamsyafiul@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umammskyy/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-syafi-ul-umam-689b0b1ba/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portofolioumam.netlify.app/)
-
----
-
-> *"Koding itu seperti seni — butuh logika, rasa, dan ketekunan untuk membuat sesuatu yang indah."*
-
----
-
-<!-- GIF favorit -->
 <p align="center">
-  <img src="./jiwoo-jiwoo-h2h.gif" alt="Jiwoo H2H Hearts" width="300" />
+  <img src="./github-header-banner.png" alt="Muhammad Syafi'ul Umam - Frontend Developer" width="100%" />
+</p>
+
+<h3 align="center">Frontend Developer & Informatics Engineering Student</h3>
+
+<p align="center">
+  I enjoy turning ideas into clean, responsive, and useful web experiences.
+  Currently studying Informatics Engineering at Universitas YARSI and exploring modern web development.
+</p>
+
+<p align="center">
+  <a href="mailto:muhammadumamsyafiul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-syafi-ul-umam-689b0b1ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://itsumam.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/umammskyy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+## About Me
+
+- Focused on frontend development, UI/UX, and building intuitive interfaces
+- Currently learning React, Node.js, and modern web development practices
+- Growing toward becoming a frontend or full-stack developer
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,php,react,flutter,tailwind,codeigniter,mysql,git,github,figma,postman,vscode&perline=7" alt="Tech Stack" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Umam07&show_icons=true&theme=github_dark&hide_border=true" alt="Umam's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umam07&layout=compact&theme=github_dark&hide_border=true" alt="Umam's Top Languages" />
+</p>
+
+<p align="center">
+  <i>Code, learn, improve, repeat.</i>
+</p>
+
+<p align="center">
+  <img src="./jiwoo-jiwoo-h2h.gif" alt="Jiwoo H2H Hearts" width="220" />
 </p>
