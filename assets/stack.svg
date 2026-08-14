@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%" height="100%">
+  <defs>
+    <filter id="shadow-stack" x="-5%" y="-5%" width="110%" height="120%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.6"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <style>
+      .terminal-title { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; fill: #8b949e; }
+      .code-font { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; }
+      .category { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 13.5px; fill: #38bdf8; font-weight: 600; }
+      .skill-pill { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 12px; fill: #e6edf3; }
+      .tag { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 11px; fill: #484f58; }
+    </style>
+  </defs>
+
+  <!-- Floating Terminal Window -->
+  <g filter="url(#shadow-stack)">
+    <!-- Window Background -->
+    <rect x="20" y="20" width="760" height="320" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    
+    <!-- Title Bar -->
+    <path d="M 20 30 A 10 10 0 0 1 30 20 L 770 20 A 10 10 0 0 1 780 30 L 780 56 L 20 56 Z" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <line x1="20" y1="56" x2="780" y2="56" stroke="#30363d" stroke-width="1"/>
+    
+    <!-- Window Control Buttons (Traffic Lights) -->
+    <circle cx="44" cy="38" r="6" fill="#ff5f56"/>
+    <circle cx="64" cy="38" r="6" fill="#ffbd2e"/>
+    <circle cx="84" cy="38" r="6" fill="#27c93f"/>
+
+    <!-- Title Bar Text -->
+    <text x="400" y="42" text-anchor="middle" class="terminal-title">umam07@github: ~$ ./skills.sh</text>
+
+    <!-- Terminal Command -->
+    <text x="50" y="94" class="code-font" font-size="14" font-weight="600" fill="#38bdf8">umam07@github :~$ <tspan fill="#e6edf3" font-weight="400">./skills.sh --all</tspan></text>
+
+    <!-- Skills Categories Grid -->
+    <g transform="translate(50, 120)">
+      <!-- Column 1: Core Languages -->
+      <g transform="translate(0, 0)">
+        <text x="0" y="0" class="category">├── Languages</text>
+        <g transform="translate(20, 16)">
+          <rect x="0" y="0" width="105" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="52" y="17" text-anchor="middle" class="skill-pill">TypeScript</text>
+
+          <rect x="0" y="34" width="105" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="52" y="51" text-anchor="middle" class="skill-pill">JavaScript</text>
+
+          <rect x="0" y="68" width="105" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="52" y="85" text-anchor="middle" class="skill-pill">HTML5 / CSS3</text>
+        </g>
+      </g>
+
+      <!-- Column 2: Frameworks & UI -->
+      <g transform="translate(240, 0)">
+        <text x="0" y="0" class="category">├── Frameworks &amp; UI</text>
+        <g transform="translate(20, 16)">
+          <rect x="0" y="0" width="115" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="57" y="17" text-anchor="middle" class="skill-pill">React</text>
+
+          <rect x="0" y="34" width="115" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="57" y="51" text-anchor="middle" class="skill-pill">Next.js</text>
+
+          <rect x="0" y="68" width="115" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="57" y="85" text-anchor="middle" class="skill-pill">Tailwind CSS</text>
+        </g>
+      </g>
+
+      <!-- Column 3: Ecosystem & Tools -->
+      <g transform="translate(480, 0)">
+        <text x="0" y="0" class="category">└── Tools &amp; Ecosystem</text>
+        <g transform="translate(20, 16)">
+          <rect x="0" y="0" width="115" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="57" y="17" text-anchor="middle" class="skill-pill">Node.js</text>
+
+          <rect x="0" y="34" width="115" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="57" y="51" text-anchor="middle" class="skill-pill">Git / GitHub</text>
+
+          <rect x="0" y="68" width="115" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text x="57" y="85" text-anchor="middle" class="skill-pill">Vite</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Bottom Corner Tag -->
+    <text x="750" y="305" text-anchor="end" class="tag">skills.sh</text>
+  </g>
+</svg>

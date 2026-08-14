@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="100%" height="100%">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.6"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <style>
+      .terminal-title { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; fill: #8b949e; }
+      .ascii-text { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 11.5px; fill: #c9d1d9; line-height: 1.25; letter-spacing: 0.5px; white-space: pre; }
+      .tag { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; font-size: 11px; fill: #484f58; }
+    </style>
+  </defs>
+
+  <!-- Floating Terminal Window -->
+  <g filter="url(#shadow)">
+    <!-- Window Background -->
+    <rect x="20" y="20" width="760" height="570" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    
+    <!-- Title Bar -->
+    <path d="M 20 30 A 10 10 0 0 1 30 20 L 770 20 A 10 10 0 0 1 780 30 L 780 58 L 20 58 Z" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <line x1="20" y1="58" x2="780" y2="58" stroke="#30363d" stroke-width="1"/>
+    
+    <!-- Window Control Buttons (Traffic Lights) -->
+    <circle cx="44" cy="39" r="6" fill="#ff5f56"/>
+    <circle cx="64" cy="39" r="6" fill="#ffbd2e"/>
+    <circle cx="84" cy="39" r="6" fill="#27c93f"/>
+
+    <!-- Title Bar Text -->
+    <text x="400" y="43" text-anchor="middle" class="terminal-title">umam07@github: ~$ ./portrait.sh</text>
+
+    <!-- Cat Emoji / Icon right -->
+    <text x="755" y="44" text-anchor="middle" font-size="14">🐱</text>
+
+    <!-- Terminal Content Area -->
+    <g transform="translate(155, 95)">
+      <text class="ascii-text">
+        <tspan x="0" y="0">         ....````:EE                          ++-`  .wEE</tspan>
+        <tspan x="0" y="16">        www.      .`EE%                      +w.     `wEE</tspan>
+        <tspan x="0" y="32">       Eww.         .iEE                    ++i.      +EE</tspan>
+        <tspan x="0" y="48">      Eww.   .+0...`                       ++.      .+EE</tspan>
+        <tspan x="0" y="64">      Eww   -@@@@  w.                     ++i.   .w@@@@` +EE</tspan>
+        <tspan x="0" y="80">      ww.  .@@@@@@@@`     :EE            ++i.   .@@@@@@@@ +EE</tspan>
+        <tspan x="0" y="96">      ww   :C@@@@@@@@-   `EE'``.....``''+ww.   -@@@@@@@@+ `EE</tspan>
+        <tspan x="0" y="112">      ww   .@@@@@@@@@'                        .@@@@@@@@@. `EE</tspan>
+        <tspan x="0" y="128">      ww    +@@@@@@+E;                        .E+@@@@@@@- `EE</tspan>
+        <tspan x="0" y="144">      ww    :@@@@@:                             +@@@@@@`  `EE</tspan>
+        <tspan x="0" y="160">      ww    :@@@@@'                             ;@@@@@@   `EE</tspan>
+        <tspan x="0" y="176">      ww.    .                                            `EE</tspan>
+        <tspan x="0" y="192">      ww                                                  ;EE</tspan>
+        <tspan x="0" y="208">      ww                                                  ;EE</tspan>
+        <tspan x="0" y="224">      ww         +E+                                +wE.  ;EE</tspan>
+        <tspan x="0" y="240">      ww.       .@@@.                              `@@@`  :EE</tspan>
+        <tspan x="0" y="256">      www.      -@@@@w.                         ..+@@@@`  `EE</tspan>
+        <tspan x="0" y="272">      wwww       -@@@@@@E;.                  `;E@@@@@@-   `EE%</tspan>
+        <tspan x="0" y="288">       ;EE+       `+@@@@@@@EE           .EE@@@@@@@@;`    .EEEEE</tspan>
+        <tspan x="0" y="304">        .+ww+---      :+@@@@@@@@@@@@@@@@@@@@@@@@+;      -E%` -EE</tspan>
+        <tspan x="0" y="320">            ;EEEEEE      `'+E@@@@@@@@@@@@@E+'`          `.i-`%EE</tspan>
+        <tspan x="0" y="336">            www. w`           .+@@@@@+.                   ;EEE.</tspan>
+        <tspan x="0" y="352">            Eww. .            .@@@@@@@.                   `-EE</tspan>
+        <tspan x="0" y="368">            Eww               E@@@@@@@E                   .iEE</tspan>
+        <tspan x="0" y="384">            +ww.             `@@@@@@@@@.             `;EE</tspan>
+        <tspan x="0" y="400">               +ww+i.         .+@@@@@+.         `...:iEE</tspan>
+        <tspan x="0" y="416">                  +ww'         `+wE+'`     ....:iEEEE</tspan>
+        <tspan x="0" y="432">                     %++=i.             ....:iEEEE</tspan>
+        <tspan x="0" y="448">                         %++w+'     `....;EEEE%</tspan>
+        <tspan x="0" y="464">                              +++iEEEE%</tspan>
+      </text>
+    </g>
+
+    <!-- Bottom Corner Tag -->
+    <text x="750" y="570" text-anchor="end" class="tag">portrait.sh</text>
+  </g>
+</svg>
