@@ -1,26 +1,57 @@
+# Umam07
+
+> Maintainer credibility and contributor clarity.
+
+**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
+
+## Header
+> Editing this section in the inspector.
+Hi, I'm **Umam07**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
-  <img src="./ascii-art.png" alt="Umam profile picture" width="240" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Umam07&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Umam07&theme=neon" alt="Umam07 hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Umam07&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Umam07&theme=neon" alt="Umam07 about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Umam07&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Umam07&theme=neon" alt="Umam07 stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **Neon** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Umam07&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Umam07&theme=neon" alt="Umam07 stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Umam07&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Umam07&theme=neon" alt="Umam07 projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Umam07&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Umam07&theme=neon" alt="Umam07 social section" />
+  </picture>
 </p>
 
-<h1 align="center">Umam</h1>
-
-<p align="center">Frontend Developer • Informatics Engineering Student</p>
-
-<p align="center">
-  Aku bikin antarmuka yang bersih, ringkas, dan enak dipakai.
-</p>
-
-<p align="center">
-  <a href="https://itsumam.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/muhammad-syafi-ul-umam-689b0b1ba/">LinkedIn</a> ·
-  <a href="mailto:muhammadumamsyafiul@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,js,java,php,git,github,figma,vscode&perline=5" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  Saat ini fokus ke React, Flutter, dan UI/UX.
-</p>
-
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
