@@ -1,0 +1,57 @@
+[
+  {
+    "name": "PentaDosen 2.0",
+    "repo": "Umam07/FE-PentaDosen",
+    "url": "https://github.com/Umam07/FE-PentaDosen",
+    "homepage": null,
+    "role": "Lead Frontend Developer",
+    "status": "Active Development",
+    "focus": "Document & Performance Dashboard",
+    "summary": "Comprehensive lecturer performance and document management system dashboard for universities.",
+    "tags": ["TypeScript", "Next.js", "React", "Tailwind CSS", "Dashboard"]
+  },
+  {
+    "name": "SiRapi",
+    "repo": "Umam07/SiRapi",
+    "url": "https://github.com/Umam07/SiRapi",
+    "homepage": null,
+    "role": "Creator · Maintainer",
+    "status": "Open Source · 4★",
+    "focus": "Automated Directory Organizer",
+    "summary": "Automated PowerShell utility for intelligently sorting, cleaning, and categorizing cluttered files.",
+    "tags": ["PowerShell", "Automation", "CLI", "Productivity"]
+  },
+  {
+    "name": "Portfolio",
+    "repo": "Umam07/Portofolio-Baru",
+    "url": "https://github.com/Umam07/Portofolio-Baru",
+    "homepage": "https://itsumam.vercel.app",
+    "role": "Designer & Developer",
+    "status": "Live",
+    "focus": "Modern Showcase & UI/UX",
+    "summary": "Personal interactive portfolio showcasing frontend architecture, responsive designs, and UI engineering.",
+    "tags": ["Astro", "React", "Tailwind CSS", "UI/UX"]
+  },
+  {
+    "name": "Akadesi",
+    "repo": "Umam07/Akadesi",
+    "url": "https://github.com/Umam07/Akadesi",
+    "homepage": null,
+    "role": "Frontend Developer",
+    "status": "Prototype",
+    "focus": "Academic Management Platform",
+    "summary": "Modern academic portal interface designed for intuitive student tracking and administrative tasks.",
+    "tags": ["TypeScript", "React", "Tailwind CSS"]
+  },
+  {
+    "name": "Kosbu",
+    "repo": "Umam07/KosbuWebsite",
+    "url": "https://github.com/Umam07/KosbuWebsite",
+    "homepage": null,
+    "role": "Frontend Developer",
+    "status": "Web Build",
+    "focus": "Listing & Room Booking UI",
+    "summary": "Web platform for boarding house management with streamlined room booking and listings.",
+    "tags": ["TypeScript", "Next.js", "Tailwind CSS"]
+  }
+]
