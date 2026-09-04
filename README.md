@@ -13,3 +13,9 @@
   <a href="https://www.linkedin.com/in/muhammad-syafi-ul-umam-689b0b1ba/"><strong>LinkedIn</strong></a> ·
   <a href="mailto:muhammadumamsyafiul@gmail.com"><strong>Email</strong></a>
 </p>
+
+## Recent Activity
+
+<!-- AUTO:ACTIVITY:START -->
+_No recent public activity was found._
+<!-- AUTO:ACTIVITY:END -->
