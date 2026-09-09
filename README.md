@@ -17,10 +17,10 @@
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Sep 6, 2026: pushed 1 commit to [Umam07/Portofolio-Baru](https://github.com/Umam07/Portofolio-Baru).
-- Sep 5, 2026: pushed 1 commit to [Umam07/flow-btc](https://github.com/Umam07/flow-btc).
 - Sep 7, 2026: pushed 1 commit to [Umam07/flow-btc](https://github.com/Umam07/flow-btc).
 - Sep 7, 2026: pushed 1 commit to [Umam07/Portofolio-Baru](https://github.com/Umam07/Portofolio-Baru).
+- Sep 6, 2026: pushed 1 commit to [Umam07/Portofolio-Baru](https://github.com/Umam07/Portofolio-Baru).
+- Sep 5, 2026: pushed 1 commit to [Umam07/flow-btc](https://github.com/Umam07/flow-btc).
 - Sep 4, 2026: pushed 1 commit to [Umam07/FE-PentaDosen](https://github.com/Umam07/FE-PentaDosen).
 - Sep 4, 2026: pushed 1 commit to [Umam07/BE-PentaDosen](https://github.com/Umam07/BE-PentaDosen).
 <!-- AUTO:ACTIVITY:END -->
