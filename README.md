@@ -22,5 +22,4 @@
 - Sep 28, 2026: pushed 1 commit to [Umam07/SiRapi](https://github.com/Umam07/SiRapi).
 - Sep 25, 2026: pushed 1 commit to [Umam07/FE-PentaDosen](https://github.com/Umam07/FE-PentaDosen).
 - Sep 25, 2026: pushed 1 commit to [Umam07/BE-PentaDosen](https://github.com/Umam07/BE-PentaDosen).
-- Sep 21, 2026: pushed 1 commit to [Umam07/InfoLansia](https://github.com/Umam07/InfoLansia).
 <!-- AUTO:ACTIVITY:END -->
