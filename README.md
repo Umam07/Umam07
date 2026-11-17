@@ -20,6 +20,4 @@
 - Oct 30, 2026: pushed 1 commit to [Umam07/Portofolio-Baru](https://github.com/Umam07/Portofolio-Baru).
 - Oct 28, 2026: pushed 1 commit to [Umam07/FE-PentaDosen](https://github.com/Umam07/FE-PentaDosen).
 - Oct 28, 2026: pushed 1 commit to [Umam07/BE-PentaDosen](https://github.com/Umam07/BE-PentaDosen).
-- Oct 17, 2026: created a branch in [Umam07/MCP](https://github.com/Umam07/MCP).
-- Oct 16, 2026: created a branch in [Umam07/test-extension](https://github.com/Umam07/test-extension).
 <!-- AUTO:ACTIVITY:END -->
